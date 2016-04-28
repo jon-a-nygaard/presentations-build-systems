@@ -1,0 +1,23 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	color: #fff;
+	padding: 30px;
+	background-color: #AA3939;
+}
+
+body.done {
+	background-color: #294F6D;
+}
+
+#result {
+	padding: 30px 15px;
+	font-size: 50px;
+	background-color: #D46A6A;
+}
+
+body.done #result {
+	background-color: #496D89;
+}
